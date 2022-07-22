@@ -8,3 +8,6 @@ The Description of Experiment : [Demo_BO with Known Optimum.pdf](https://github.
 The code of run experiment : [run_EXP.py](https://github.com/JackPeng1st/BO_with_KnownOptimum/blob/master/run_EXP.py)
 
 The jupyter notebook of benchmark function experiment : [Known_Optimum_BO_benchmark_fuctions.ipynb](https://github.com/JackPeng1st/BO_with_KnownOptimum/blob/master/Known_Optimum_BO_benchmark_fuctions.ipynb) 
+
+
+Reference: [Knowing The What But Not The Where in Bayesian Optimization.pdf](https://github.com/JackPeng1st/BO_with_KnownOptimum/blob/master/reference%20paper/2020_Knowing%20The%20What%20But%20Not%20The%20Where%20in%20Bayesian%20Optimization.pdf)
